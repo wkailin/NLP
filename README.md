@@ -8,7 +8,8 @@
 -  Quantified word similarities with cosine similarity measurement
 -  Debiasd word2vec with respect to gender bias via implementing penalty function on the loss function
 -  
-2. [Music genre classification based on lyrics](./  ): 
+2. [Music genre classification based on lyrics](./SI630_Project_Final_Project.pdf)
+3. 
 Modeling: 
 - Two language representation models for multi-label genre classification based on song lyrics. To further improve the performance of models on highly imbalanced data
 - Three balancing strategies combined with language models are constructed for comparison.
